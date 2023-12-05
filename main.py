@@ -8,5 +8,6 @@ def main():
     print('新機能２')
     print('新機能３')
     print('新機能４')
+    print('新機能５')
 
 main()
